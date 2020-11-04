@@ -2,7 +2,7 @@
   background-image: radial-gradient( circle farthest-corner at 10% 20%, rgba(240,22,228,0.98) 0%, rgba(87,220,251,1) 100.3% );
 }
 .section2 {
-  background-image: linear-gradient( 108.4deg, rgba(220,194,255,1) 6.9%, rgba(185,223,248,1) 86.5% );
+  background-image: radial-gradient( circle farthest-corner at 10% 20%, rgba(21,81,192,1) 0%, rgba(234,131,206,1) 54.8% );
 }
 
 .section3 {
